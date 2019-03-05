@@ -1,2 +1,2 @@
 # Beta_btp
-This is created just to test our BTP implementation.
+This was created just to test our BTP implementation.
